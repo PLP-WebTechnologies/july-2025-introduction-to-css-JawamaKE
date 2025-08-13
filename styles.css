@@ -1,0 +1,97 @@
+body {
+    background-color: bisque;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 20px; 
+    line-height: 1.2;
+}
+
+h1 {
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+.content h2 {
+    color: purple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+.content2 h2 {
+    color: green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.content2 ol {
+    padding-left: 20px;          
+    list-style-position: inside;
+}
+
+.content2 li {
+    margin-bottom: 8px;           
+}
+
+.example-box {
+    background-color: lightseagreen;
+    border: 5px solid yellow;
+    padding: 30px;
+    margin-top: 10px;
+}    
+
+.selectors h2 {
+    color: deepskyblue;
+    font-size: 28px;
+}
+
+.container h1 {
+    color: darkred;
+    font-size: 28px;
+}
+
+.box {
+    background-color: aqua; 
+    padding: 30px;             
+    border: 2px solid blue; 
+    margin: 0 auto;            
+    width: 80%;
+    max-width: 600px;
+}
+
+
+.inner-box {
+    background-color: wheat;     
+    padding: 20px;                 
+    border: 10px dashed lightgreen;   
+    margin: 10px;                  
+}
+
+
+.inner-box p {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.card {
+    background-color: cornsilk;
+    border: 1px solid greenyellow;
+    padding: 15px;
+    margin-top: 15px;
+}
+
+
+button {
+    background-color: #38761d;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #274e13;
+}
